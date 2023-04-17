@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application.Intent 2</string>
+    <string name="et1">Campo para recoger el dato</string>
+    <string name="tv1">Campo ver el dato</string>
+    <string name="btn1">Botón siguiente pantalla</string>
+    <string name="btn2">Botón anterior pantalla</string>
+
+</resources>
